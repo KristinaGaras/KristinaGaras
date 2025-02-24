@@ -57,9 +57,25 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="40"   />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="40"   />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="40"   />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=codepen&theme=dark" height="40"   />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40"   />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40"   />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="40"   />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="40"   />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=webstorm&theme=dark" height="40"   />
   <img width="12" />
 </div>
 
